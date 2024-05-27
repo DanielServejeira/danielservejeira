@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielservejeira&label=Profile%20views&color=000000&style=flat" alt="danielservejeira" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielservejeira" alt="danielservejeira" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures and OOP concepts**
 
-- ⚡ Fun fact **I play guitar, chess and I lift some heavy weights.**
+- ⚡ Fun fact: **I play guitar, chess and I lift some heavy weights.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
