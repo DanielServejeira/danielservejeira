@@ -19,6 +19,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/danielservejeira"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danielservejeira" /></a><br></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielservejeira&show_icons=true&locale=en&layout=compact" alt="danielservejeira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielservejeira&show_icons=true&theme=dark&locale=en&layout=compact" alt="danielservejeira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielservejeira&show_icons=true&locale=en" alt="danielservejeira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielservejeira&show_icons=true&theme=dark&locale=en" alt="danielservejeira" /></p>
