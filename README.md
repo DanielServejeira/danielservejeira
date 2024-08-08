@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and OOP concepts**
 
-- ⚡ Fun fact: **I play guitar, chess, football and I lift some heavy weights.**
+- ⚡ Fun fact: **I play football and I lift some heavy weights.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
