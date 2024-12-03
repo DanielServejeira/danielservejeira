@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielservejeira&label=Profile%20views&color=000000&style=flat" alt="danielservejeira" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and OOP concepts**
+- 🌱 I’m currently learning **Software Engineering and Database**
 
-- ⚡ Fun fact: **I play football and I lift some heavy weights.**
+- ⚡ Fun fact: **I play football and lift heavy weights.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
