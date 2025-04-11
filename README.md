@@ -13,6 +13,8 @@
 <a href="https://instagram.com/danihps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danihps" height="30" width="40" /></a>
 </p>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielservejeira&show_icons=true&theme=dark&locale=en&layout=compact" alt="danielservejeira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielservejeira&show_icons=true&theme=dark&locale=en" alt="danielservejeira" /></p>
